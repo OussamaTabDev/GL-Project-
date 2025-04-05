@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nokshi-2.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://nokshi-2.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://nokshi-2.myshopify.com/blogs/news/tagged/notebook.atom"/>
+  <title>Booken - News</title>
+  <updated>2023-09-25T00:00:00-04:00</updated>
+  <author>
+    <name>Booken</name>
+  </author>
+  <entry>
+    <id>https://nokshi-2.myshopify.com/blogs/news/best-t-shirt-collection-2018</id>
+    <published>2023-09-25T00:00:00-04:00</published>
+    <updated>2023-09-25T23:56:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nokshi-2.myshopify.com/blogs/news/best-t-shirt-collection-2018"/>
+    <title>Best Flower Collection</title>
+    <author>
+      <name>Booken</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhendit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et</p>
+<blockquote>
+<p>Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño.</p>
+</blockquote>
+<p style="text-align: left;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://nokshi-2.myshopify.com/blogs/news/nice-bed-collection-in-new-yourk</id>
+    <published>2023-09-25T00:00:00-04:00</published>
+    <updated>2023-09-25T23:56:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nokshi-2.myshopify.com/blogs/news/nice-bed-collection-in-new-yourk"/>
+    <title>Nice Bed Collection</title>
+    <author>
+      <name>Booken</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhendit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et</p>
+<blockquote>
+<p>Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño.</p>
+</blockquote>
+<p style="text-align: left;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+]]>
+    </content>
+  </entry>
+</feed>
